@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1340"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCD2942B290D852E00D87E50"
+               BuildableName = "EmpowermentsLabsChallenge.app"
+               BlueprintName = "EmpowermentsLabsChallenge"
+               ReferencedContainer = "container:EmpowermentsLabsChallenge.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      codeCoverageEnabled = "YES">
+      <CodeCoverageTargets>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "77DDAF2B25BC57C400B0ED2C"
+            BuildableName = "NetworkModuleTests.xctest"
+            BlueprintName = "NetworkModuleTests"
+            ReferencedContainer = "container:NetworkModule/NetworkModule.xcodeproj">
+         </BuildableReference>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "77DDAEF425BC561300B0ED2C"
+            BuildableName = "CoreModuleTests.xctest"
+            BlueprintName = "CoreModuleTests"
+            ReferencedContainer = "container:CoreModule/CoreModule.xcodeproj">
+         </BuildableReference>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DCD29441290D853300D87E50"
+            BuildableName = "EmpowermentsLabsChallengeTests.xctest"
+            BlueprintName = "EmpowermentsLabsChallengeTests"
+            ReferencedContainer = "container:EmpowermentsLabsChallenge.xcodeproj">
+         </BuildableReference>
+      </CodeCoverageTargets>
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCD29441290D853300D87E50"
+               BuildableName = "EmpowermentsLabsChallengeTests.xctest"
+               BlueprintName = "EmpowermentsLabsChallengeTests"
+               ReferencedContainer = "container:EmpowermentsLabsChallenge.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "77DDAEF425BC561300B0ED2C"
+               BuildableName = "CoreModuleTests.xctest"
+               BlueprintName = "CoreModuleTests"
+               ReferencedContainer = "container:CoreModule/CoreModule.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "77DDAF2B25BC57C400B0ED2C"
+               BuildableName = "NetworkModuleTests.xctest"
+               BlueprintName = "NetworkModuleTests"
+               ReferencedContainer = "container:NetworkModule/NetworkModule.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DCD2942B290D852E00D87E50"
+            BuildableName = "EmpowermentsLabsChallenge.app"
+            BlueprintName = "EmpowermentsLabsChallenge"
+            ReferencedContainer = "container:EmpowermentsLabsChallenge.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DCD2942B290D852E00D87E50"
+            BuildableName = "EmpowermentsLabsChallenge.app"
+            BlueprintName = "EmpowermentsLabsChallenge"
+            ReferencedContainer = "container:EmpowermentsLabsChallenge.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
